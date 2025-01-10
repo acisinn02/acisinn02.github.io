@@ -2,13 +2,12 @@
 <html>
 <body>
 
-<h2>CLIQUE NO BOTÃO ABAIXO: </h2>
+<h2>Temos uma pagina Web!</h2>
 
-<form action="/action_page.php">
-  <input type="submit" value="clique aqui">
-</form> 
-
+<h1>&#128512;</h1>
 
 </body>
 </html>
+
+
 
