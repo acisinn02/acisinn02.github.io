@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>CLIQUE NO BOTÃO ABAIXO: </h2>
+
+<form action="/action_page.php">
+  <input type="submit" value="clique aqui">
+</form> 
+
+
+</body>
+</html>
+
